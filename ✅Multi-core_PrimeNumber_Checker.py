@@ -1,4 +1,4 @@
-from multiprocessing import Pool
+from multiprocessing import Pool 
 
 def is_prime(n):
     if n < 2:
